@@ -1,0 +1,8 @@
+[mysql_conection]
+host= 
+user= 
+passwd=
+db= 
+
+[api_conection]	 
+query_params=?results=4500&seed=michal
